@@ -10,4 +10,4 @@
 * Оценить окупаемость рекламы в зависимость от страны, девайса и источника привлечения.
 * Дать рекомендации 
 
-проект доступен по [[ссылке]](https://nbviewer.org/github/Sergey-Tischenko/data/blob/21f245e86c795a867ef222705db902e4db91d4c1/когортный%20анализ/проект%20когортный%20анализ.ipynb)
+проект доступен по [[ссылке]](https://nbviewer.org/github/Sergey-Tischenko/data/blob/6b5fb2a0e1768a00fda5bd52da61585fc36053ee/cohort_analysis/cohort_analysis.ipynb)
