@@ -5,4 +5,4 @@
 * Составлены "портреты" пользоваетелей для каждого из регионов
 
 
-доступен так же по [ссылке](https://nbviewer.org/github/Sergey-Tischenko/data/blob/74dc7adbd01cadb52e33dd4a3370a3001c37586b/Историческое%20исследование%20рынка%20игр/проект%20%20игры%20.ipynb)
+доступен так же по [ссылке](https://nbviewer.org/github/Sergey-Tischenko/data/blob/342ea989f27db5d5a70ded71f49689a2cef58b20/game_market_research/games_project.ipynb)
