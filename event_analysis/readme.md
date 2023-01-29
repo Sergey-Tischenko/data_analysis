@@ -11,4 +11,4 @@
 
 ### Проект завершен
 
-проект доступен по [[ссылке]](https://nbviewer.org/github/Sergey-Tischenko/data/blob/0ccf199edf67326c4b0d72311b46986d4b8210ce/event_analysis/event.ipynb)
+проект доступен по [[ссылке]](https://nbviewer.org/github/Sergey-Tischenko/data_analysis/blob/0ccf199edf67326c4b0d72311b46986d4b8210ce/event_analysis/event.ipynb)
