@@ -18,4 +18,4 @@
 
 ### Проект завершен
 
-проект доступен по [[ссылке]](https://nbviewer.org/github/Sergey-Tischenko/data_analysis//blob/4ab14819262ef666e226d5b1403d40bd9de027d3/business_indicators/business.ipynb)
+проект доступен по [[ссылке]](https://nbviewer.org/github/Sergey-Tischenko/data_analysis/blob/4ab14819262ef666e226d5b1403d40bd9de027d3/business_indicators/business.ipynb)
