@@ -16,4 +16,4 @@
 
 ### Проект завершен
 
-проект доступен по [[ссылке]](https://nbviewer.org/github/Sergey-Tischenko/data/blob/6b5fb2a0e1768a00fda5bd52da61585fc36053ee/cohort_analysis/cohort_analysis.ipynb)
+проект доступен по [[ссылке]](https://nbviewer.org/github/Sergey-Tischenko/data_analysis/blob/6b5fb2a0e1768a00fda5bd52da61585fc36053ee/cohort_analysis/cohort_analysis.ipynb)
